@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kalkbp</string>
+    <string-array name="spinner_items">
+        <item>amunicja 1</item>
+        <item>amunicja 2</item>
+        <item>amunicja 3</item>
+    </string-array>
+</resources>
